@@ -2,6 +2,7 @@
 package com.comision144.TrabajoIntegrador.entity;
 
 import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import static jakarta.persistence.GenerationType.SEQUENCE;
 import jakarta.persistence.Table;
@@ -14,6 +15,7 @@ import org.springframework.data.annotation.Id;
  *         DNI 16425555
  */
 
+@Entity
 @Table(name="tipo_problema")
 public class TipoProblema {
 
