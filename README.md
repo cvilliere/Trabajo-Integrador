@@ -6,7 +6,7 @@ Comisión:144
 # Trabajo-Integrador
 Trabajo final del Curso Desarrollador Java Intermedio
 
-Profesor: Sebastian Ignaio Centurion
+Profesor: Sebastian Ignacio Centurion
 Alumno: Carlos Villiere
 DNI:16425555
 
